@@ -1,0 +1,1 @@
+This is a project to practice my HTML knowledge, my git knowledge, and to build a basic recipe website.
