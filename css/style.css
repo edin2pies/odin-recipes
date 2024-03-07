@@ -6,6 +6,7 @@ body {
 .title {
     font-size: 50px;
     text-align: center;
+    font-style: italic;
 }
 
 .picture {
@@ -26,4 +27,15 @@ body {
 
 .subhead {
     font-size: 25px;
+    text-decoration: underline;
+}
+
+ul {
+    font-style: italic;
+    font-size: 14px;
+}
+
+ol {
+    font-style: italic;
+    font-size: 14px;
 }
