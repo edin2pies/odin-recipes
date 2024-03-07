@@ -1,8 +1,29 @@
 body {
     font-family: "Verdana", Georgia, sans-serif;
+    background-color: rgba(214, 214, 214, 0.692);
 }
 
 .title {
-    text-align: center;
     font-size: 50px;
+    text-align: center;
+}
+
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: auto;
+}
+
+#grilled_cheese {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: auto;
+}
+
+.subhead {
+    font-size: 25px;
 }
